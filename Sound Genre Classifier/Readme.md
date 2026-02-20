@@ -1,7 +1,7 @@
 # Sound Genre Classifier System
 
 ## Overview
-This project develops and compares different machine learning models for music genre classification based on audio features and spectrogram images. The goal is to accurately categorize music tracks into one of ten genres (blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock) using both traditional audio feature extraction and deep learning techniques.
+This project develops and compares different machine learning models for music genre classification based on audio features and spectrogram images. The goal is to accurately categorize music tracks into one of ten genres (including blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock) using both traditional audio feature extraction and deep learning techniques.
 
 ## Dataset
 The project utilizes a dataset containing various audio features and spectrogram images derived from music tracks. The main feature dataset (`Datasetfilename.csv`) includes:
