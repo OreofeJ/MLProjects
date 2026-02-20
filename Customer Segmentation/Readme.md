@@ -5,13 +5,13 @@ Objective: Perform customer segmentation using two clustering algorithms: K-Mean
 ## Table of Contents
 1.  [Setup and Data Loading](#setup-and-data-loading)
 2.  [Initial Data Exploration](#initial-data-exploration)
-3.  [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
+3.  [Data Cleaning and Preprocessing](#data-cleaning--preprocessing)
 4.  [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 5.  [Feature Scaling](#feature-scaling)
 6.  [K-Means Clustering](#k-means-clustering)
 7.  [DBSCAN Clustering](#dbscan-clustering)
 8.  [Model Comparison](#model-comparison)
-9.  [Fairness & Bias Analysis](#fairness--bias-analysis)
+9.  [Fairness and Bias Analysis](#fairness--bias-analysis)
 
 ## 1. Setup and Data Loading
 
