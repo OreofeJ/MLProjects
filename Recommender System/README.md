@@ -40,5 +40,3 @@ This project utilizes:
 - **Data Sources**: Datasets should be in CSV format with appropriate user-item interactions.
 
 For more in-depth technical discussions, refer to the comments within `Recommender_System.ipynb`. 
-
-Happy coding!
